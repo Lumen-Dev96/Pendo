@@ -1,0 +1,416 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		92492A70200CB6A200A2A719 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 92492A6F200CB6A200A2A719 /* AppDelegate.m */; };
+		92492A73200CB6A200A2A719 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92492A72200CB6A200A2A719 /* ViewController.m */; };
+		92492A75200CB6A200A2A719 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92492A74200CB6A200A2A719 /* Assets.xcassets */; };
+		92492A78200CB6A200A2A719 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92492A76200CB6A200A2A719 /* Main.storyboard */; };
+		92492A7B200CB6A200A2A719 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 92492A7A200CB6A200A2A719 /* main.m */; };
+		925B13612011945800031A4E /* PDSignatureView.m in Sources */ = {isa = PBXBuildFile; fileRef = 925B135D2011945800031A4E /* PDSignatureView.m */; };
+		925B13622011945800031A4E /* Line.m in Sources */ = {isa = PBXBuildFile; fileRef = 925B135E2011945800031A4E /* Line.m */; };
+		925B13642011A04A00031A4E /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 925B13632011A04A00031A4E /* AppKit.framework */; };
+		9273A2172099893B0054ED13 /* DigitalNoteUSB.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9273A2162099893B0054ED13 /* DigitalNoteUSB.framework */; };
+		9273A21820998B180054ED13 /* DigitalNoteUSB.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9273A2162099893B0054ED13 /* DigitalNoteUSB.framework */; };
+		9273A21920998B180054ED13 /* DigitalNoteUSB.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9273A2162099893B0054ED13 /* DigitalNoteUSB.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		92D04B59200DEF80006004E4 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 92D04B58200DEF80006004E4 /* libc++.tbd */; };
+		92D04B5E200F1C34006004E4 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 92D04B5D200F1C34006004E4 /* IOKit.framework */; };
+		92D04B60200F1CD6006004E4 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 92D04B5F200F1CD6006004E4 /* CoreFoundation.framework */; };
+		92D04B62200F2EC0006004E4 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 92D04B61200F2EC0006004E4 /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		9273A21A20998B180054ED13 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				9273A21920998B180054ED13 /* DigitalNoteUSB.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		92492A6B200CB6A200A2A719 /* DigitalNoteUSBDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DigitalNoteUSBDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		92492A6E200CB6A200A2A719 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		92492A6F200CB6A200A2A719 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		92492A71200CB6A200A2A719 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		92492A72200CB6A200A2A719 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		92492A74200CB6A200A2A719 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		92492A77200CB6A200A2A719 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		92492A79200CB6A200A2A719 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92492A7A200CB6A200A2A719 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		925B135D2011945800031A4E /* PDSignatureView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PDSignatureView.m; sourceTree = "<group>"; };
+		925B135E2011945800031A4E /* Line.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Line.m; sourceTree = "<group>"; };
+		925B135F2011945800031A4E /* PDSignatureView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PDSignatureView.h; sourceTree = "<group>"; };
+		925B13602011945800031A4E /* Line.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Line.h; sourceTree = "<group>"; };
+		925B13632011A04A00031A4E /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		9273A2162099893B0054ED13 /* DigitalNoteUSB.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = DigitalNoteUSB.framework; sourceTree = "<group>"; };
+		92D04B58200DEF80006004E4 /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
+		92D04B5D200F1C34006004E4 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		92D04B5F200F1CD6006004E4 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		92D04B61200F2EC0006004E4 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		92492A68200CB6A200A2A719 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				925B13642011A04A00031A4E /* AppKit.framework in Frameworks */,
+				92D04B62200F2EC0006004E4 /* Cocoa.framework in Frameworks */,
+				9273A2172099893B0054ED13 /* DigitalNoteUSB.framework in Frameworks */,
+				9273A21820998B180054ED13 /* DigitalNoteUSB.framework in Frameworks */,
+				92D04B60200F1CD6006004E4 /* CoreFoundation.framework in Frameworks */,
+				92D04B5E200F1C34006004E4 /* IOKit.framework in Frameworks */,
+				92D04B59200DEF80006004E4 /* libc++.tbd in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		92492A62200CB6A200A2A719 = {
+			isa = PBXGroup;
+			children = (
+				92492A6D200CB6A200A2A719 /* DigitalNoteUSBDemo */,
+				92492A6C200CB6A200A2A719 /* Products */,
+				92D04B57200DEF80006004E4 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		92492A6C200CB6A200A2A719 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				92492A6B200CB6A200A2A719 /* DigitalNoteUSBDemo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		92492A6D200CB6A200A2A719 /* DigitalNoteUSBDemo */ = {
+			isa = PBXGroup;
+			children = (
+				925B135C2011945800031A4E /* drawingView */,
+				92D04B63201057EE006004E4 /* SDK */,
+				92492A6E200CB6A200A2A719 /* AppDelegate.h */,
+				92492A6F200CB6A200A2A719 /* AppDelegate.m */,
+				92492A71200CB6A200A2A719 /* ViewController.h */,
+				92492A72200CB6A200A2A719 /* ViewController.m */,
+				92492A74200CB6A200A2A719 /* Assets.xcassets */,
+				92492A76200CB6A200A2A719 /* Main.storyboard */,
+				92492A79200CB6A200A2A719 /* Info.plist */,
+				92492A7A200CB6A200A2A719 /* main.m */,
+			);
+			path = DigitalNoteUSBDemo;
+			sourceTree = "<group>";
+		};
+		925B135C2011945800031A4E /* drawingView */ = {
+			isa = PBXGroup;
+			children = (
+				925B135F2011945800031A4E /* PDSignatureView.h */,
+				925B135D2011945800031A4E /* PDSignatureView.m */,
+				925B13602011945800031A4E /* Line.h */,
+				925B135E2011945800031A4E /* Line.m */,
+			);
+			path = drawingView;
+			sourceTree = "<group>";
+		};
+		92D04B57200DEF80006004E4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				925B13632011A04A00031A4E /* AppKit.framework */,
+				92D04B61200F2EC0006004E4 /* Cocoa.framework */,
+				92D04B5F200F1CD6006004E4 /* CoreFoundation.framework */,
+				92D04B58200DEF80006004E4 /* libc++.tbd */,
+				92D04B5D200F1C34006004E4 /* IOKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		92D04B63201057EE006004E4 /* SDK */ = {
+			isa = PBXGroup;
+			children = (
+				9273A2162099893B0054ED13 /* DigitalNoteUSB.framework */,
+			);
+			path = SDK;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		92492A6A200CB6A200A2A719 /* DigitalNoteUSBDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 92492A7F200CB6A200A2A719 /* Build configuration list for PBXNativeTarget "DigitalNoteUSBDemo" */;
+			buildPhases = (
+				92492A67200CB6A200A2A719 /* Sources */,
+				92492A68200CB6A200A2A719 /* Frameworks */,
+				92492A69200CB6A200A2A719 /* Resources */,
+				9273A21A20998B180054ED13 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DigitalNoteUSBDemo;
+			productName = DigitalNoteUSBDemo;
+			productReference = 92492A6B200CB6A200A2A719 /* DigitalNoteUSBDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		92492A63200CB6A200A2A719 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = Pendo;
+				TargetAttributes = {
+					92492A6A200CB6A200A2A719 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 92492A66200CB6A200A2A719 /* Build configuration list for PBXProject "DigitalNoteUSBDemo" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 92492A62200CB6A200A2A719;
+			productRefGroup = 92492A6C200CB6A200A2A719 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				92492A6A200CB6A200A2A719 /* DigitalNoteUSBDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		92492A69200CB6A200A2A719 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				92492A75200CB6A200A2A719 /* Assets.xcassets in Resources */,
+				92492A78200CB6A200A2A719 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		92492A67200CB6A200A2A719 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				925B13622011945800031A4E /* Line.m in Sources */,
+				92492A73200CB6A200A2A719 /* ViewController.m in Sources */,
+				92492A7B200CB6A200A2A719 /* main.m in Sources */,
+				925B13612011945800031A4E /* PDSignatureView.m in Sources */,
+				92492A70200CB6A200A2A719 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		92492A76200CB6A200A2A719 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				92492A77200CB6A200A2A719 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		92492A7D200CB6A200A2A719 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		92492A7E200CB6A200A2A719 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		92492A80200CB6A200A2A719 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = DigitalNoteUSBDemo/DigitalNoteUSBDemo.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = EWZSCP5XD7;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/DigitalNoteUSBDemo/SDK",
+				);
+				INFOPLIST_FILE = DigitalNoteUSBDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/DigitalNoteUSBDemo/Lib/DigitNoteController",
+					"$(PROJECT_DIR)/DigitalNoteUSBDemo/Lib/DigitNoteController/Debug",
+					"$(PROJECT_DIR)/DigitalNoteUSBDemo/Lib",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.pendoTech.DigitalNoteUSBDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		92492A81200CB6A200A2A719 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = DigitalNoteUSBDemo/DigitalNoteUSBDemo.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = EWZSCP5XD7;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/DigitalNoteUSBDemo/SDK",
+				);
+				INFOPLIST_FILE = DigitalNoteUSBDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/DigitalNoteUSBDemo/Lib/DigitNoteController",
+					"$(PROJECT_DIR)/DigitalNoteUSBDemo/Lib/DigitNoteController/Debug",
+					"$(PROJECT_DIR)/DigitalNoteUSBDemo/Lib",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.pendoTech.DigitalNoteUSBDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		92492A66200CB6A200A2A719 /* Build configuration list for PBXProject "DigitalNoteUSBDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				92492A7D200CB6A200A2A719 /* Debug */,
+				92492A7E200CB6A200A2A719 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		92492A7F200CB6A200A2A719 /* Build configuration list for PBXNativeTarget "DigitalNoteUSBDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				92492A80200CB6A200A2A719 /* Debug */,
+				92492A81200CB6A200A2A719 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 92492A63200CB6A200A2A719 /* Project object */;
+}
