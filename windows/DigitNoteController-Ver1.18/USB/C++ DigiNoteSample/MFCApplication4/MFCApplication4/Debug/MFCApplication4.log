@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  MFCApplication4Dlg.cpp
+c:\users\joe\desktop\file\a4-ap-sdk集合 v9.0\digitnotecontroller\usb - 双模\c++ diginotesample\mfcapplication4\mfcapplication4\mfcapplication4dlg.cpp(105): warning C4068: 未知的杂注
+  MFCApplication4.cpp
+  正在生成代码...
+  MFCApplication4.vcxproj -> C:\Users\Joe\Desktop\File\A4-AP-SDK集合 v9.0\DigitNoteController\USB - 双模\C++ DigiNoteSample\MFCApplication4\Debug\MFCApplication4.exe
+  MFCApplication4.vcxproj -> C:\Users\Joe\Desktop\File\A4-AP-SDK集合 v9.0\DigitNoteController\USB - 双模\C++ DigiNoteSample\MFCApplication4\Debug\MFCApplication4.pdb (Partial PDB)

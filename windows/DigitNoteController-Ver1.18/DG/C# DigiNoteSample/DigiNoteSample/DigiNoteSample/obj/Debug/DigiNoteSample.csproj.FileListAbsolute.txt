@@ -1,0 +1,91 @@
+c:\users\michael\documents\visual studio 2015\Projects\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe
+c:\users\michael\documents\visual studio 2015\Projects\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.pdb
+c:\users\michael\documents\visual studio 2015\Projects\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+c:\users\michael\documents\visual studio 2015\Projects\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+c:\users\michael\documents\visual studio 2015\Projects\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Form1.resources
+C:\Users\Joe\Desktop\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Form1.resources
+C:\Users\Joe\Desktop\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Properties.Resources.resources
+C:\Users\Joe\Desktop\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\Project-DLL\Ver1.4\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\Project-DLL\Ver1.4\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\Project-DLL\Ver1.4\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\Project-DLL\Ver1.4\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\Project-DLL\Ver1.4\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\Project-DLL\Ver1.4\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\Project-DLL\Ver1.4\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Form1.resources
+C:\Users\Joe\Desktop\Project-DLL\Ver1.4\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Properties.Resources.resources
+C:\Users\Joe\Desktop\Project-DLL\Ver1.4\DigiNoteSample-20160917 - 副本\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\Project-20160928\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\Project-20160928\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\Project-20160928\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\Project-20160928\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\Project-20160928\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\Project-20160928\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Form1.resources
+C:\Users\Joe\Desktop\Project-20160928\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Properties.Resources.resources
+C:\Users\Joe\Desktop\Project-20160928\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\Project-20160928\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.5\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.6\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.6\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.6\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.6\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.6\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.6\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.6\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Form1.resources
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.6\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Properties.Resources.resources
+C:\Users\Joe\Desktop\DigitNoteController\DLL-Ver1.6\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\A4-AP-SDK集合\Packet\DigitNoteController\DG\DLL-Ver1.7\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\A4-AP-SDK集合\Packet\DigitNoteController\DG\DLL-Ver1.7\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\A4-AP-SDK集合\Packet\DigitNoteController\DG\DLL-Ver1.7\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.7 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.7 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.7 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.7 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.7 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.7 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.7 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Form1.resources
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.7 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Properties.Resources.resources
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.7 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Form1.resources
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Properties.Resources.resources
+C:\Users\Joe\Desktop\A4-AP-SDK集合\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\新建文件夹 (4)\A4-AP-SDK集合 v3.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\新建文件夹 (4)\A4-AP-SDK集合 v3.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\新建文件夹 (4)\A4-AP-SDK集合 v3.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+D:\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+D:\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+D:\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Form1.resources
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Properties.Resources.resources
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v6.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v7.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe.config
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v7.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v7.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v7.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.exe
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v7.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\bin\Debug\DigiNoteSample.pdb
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v7.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v7.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Form1.resources
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v7.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.Properties.Resources.resources
+C:\Users\Joe\Desktop\A4-AP-SDK集合 v7.0\DigitNoteController\DG\DLL-Ver1.8 V10\C# DigiNoteSample\DigiNoteSample\DigiNoteSample\obj\Debug\DigiNoteSample.csproj.GenerateResource.Cache
