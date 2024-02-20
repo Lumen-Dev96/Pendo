@@ -346,7 +346,7 @@
 				CODE_SIGN_ENTITLEMENTS = DigitalNoteUSBDemo/DigitalNoteUSBDemo.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = EWZSCP5XD7;
+				DEVELOPMENT_TEAM = 8LGV5R6DRK;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/DigitalNoteUSBDemo/SDK",
@@ -371,7 +371,7 @@
 				CODE_SIGN_ENTITLEMENTS = DigitalNoteUSBDemo/DigitalNoteUSBDemo.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = EWZSCP5XD7;
+				DEVELOPMENT_TEAM = 8LGV5R6DRK;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/DigitalNoteUSBDemo/SDK",
